@@ -48,8 +48,7 @@ Here are some ideas to get you started:
         <span>Bash</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
-      
-        </tr>
+     </tr>
     
   </tbody>
 </table>
