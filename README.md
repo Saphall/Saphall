@@ -40,14 +40,15 @@ Here are some ideas to get you started:
         <span>Java</span><br>
         <img height ="64px" src ="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="10%" align="center">
-        <span>Bash</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
-      </td>
       <td width ="10%" align="center">
         <span>Kotlin</span><br>
         <img height ="64px" src ="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
+      <td width="10%" align="center">
+        <span>Bash</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+      </td>
+      
         </tr>
     
   </tbody>
