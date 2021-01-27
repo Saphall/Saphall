@@ -48,11 +48,7 @@ Here are some ideas to get you started:
         <span>Kotlin</span><br>
         <img height ="64px" src ="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
-       <td width ="10%" align="center">
-        <span>PHP</span><br>
-        <img height ="64px" src ="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-    </tr>
+        </tr>
     
   </tbody>
 </table>
