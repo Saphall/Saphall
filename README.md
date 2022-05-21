@@ -3,7 +3,7 @@
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
   
 <p> <a href='#'>
-  <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=30% width=30%></a>
+ <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=70% width=70%></a>
 </p></a>
   
 ```
