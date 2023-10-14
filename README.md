@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=python)](https://github.com/Saphall/Machine-Learning)
 [![Mobile App Development](https://img.shields.io/badge/-Mobile%20App%20Development-black?style=flat-square&logo=android)](https://github.com/Saphall/Flutter)
 [![Web App Development](https://img.shields.io/badge/-Web%20App%20Development-black?style=flat-square&logo=HTML5)](https://github.com/Saphall/Django-and-Flask)
-[![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-black?style=flat-square&logo=HackerOne)](https://github.com/hakkk3r)
+[![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-black?style=flat-square&logo=HackerOne)](https://github.com/d43mOne)
 
 <br>
 
