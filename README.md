@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://gitfut.com/saphall">
-  <img src="https://gitfut.com/saphall.png" alt="saphall" width="350">
+  <img src="https://gitfut.com/saphall.png" alt="saphall" width="300">
 </a>
 
 ### ⚽ SAPHAL SHAKHA ⚽
