@@ -1,13 +1,24 @@
 <div align='center'>
-
   
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=5%></a>
-  
+
 <p> <a href='#'>
- <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height=40% width=40%></a>
-</p></a>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40%" alt="coding" />
+</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+Data+Science+%2B+Machine+Learning;%3E+Streaming+ETL+%26+Data+Engineering;%3E+Web+%26+Mobile+Development;%3E+Bug+Bounty+%2F+Security+Research;" alt="typing" />
+  </p>
+
+  <div align="center">
+
+<a href="https://github.com/Saphall/Machine-Learning"><img src="assets/card-data-science.svg" width="155" alt="Data Science" /></a>
+<a href="https://github.com/Saphall/Machine-Learning"><img src="assets/card-machine-learning.svg" width="155" alt="Machine Learning" /></a>
+<a href="https://github.com/Saphall/Flutter"><img src="assets/card-mobile.svg" width="155" alt="Mobile Apps" /></a>
+<a href="https://github.com/Saphall/Django-and-Flask"><img src="assets/card-web.svg" width="155" alt="Web Apps" /></a>
+<a href="https://github.com/d43mOne"><img src="assets/card-bug-bounty.svg" width="155" alt="Bug Bounty" /></a>
+
+</div>
   
-```
+```html
 < Just Code />
 ```
 
@@ -27,40 +38,29 @@ Here are some ideas to get you started:
 -->
   
 <a href="#">
-
-🌱 ![](https://visitor-badge.glitch.me/badge?page_id=Saphall.Saphall&right_color=brightgreen&style=plastic)</a>
-
-[![Data Science](https://img.shields.io/badge/-Data%20Science-black?style=flat-square&logo=python)](https://github.com/Saphall/Machine-Learning)
-[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=python)](https://github.com/Saphall/Machine-Learning)
-[![Mobile App Development](https://img.shields.io/badge/-Mobile%20App%20Development-black?style=flat-square&logo=android)](https://github.com/Saphall/Flutter)
-[![Web App Development](https://img.shields.io/badge/-Web%20App%20Development-black?style=flat-square&logo=HTML5)](https://github.com/Saphall/Django-and-Flask)
-[![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-black?style=flat-square&logo=HackerOne)](https://github.com/d43mOne)
-
-<br>
+</a></br>
 
 
-<a href="https://gitfut.com/saphall">
-  <img src="https://gitfut.com/saphall.png" alt="saphall" width="300">
-</a>
 
-### ⚽ SAPHAL SHAKHA ⚽
+</br>
 
-<div align="center">
-
- *The engine: a relentless box-to-box daily-driver.*
-
-</div>
-
-<br>
-
-## Github Stats:
+## 🌱 Github Stats:
   
 <p >
   <img  width="310em" src="https://github-readme-stats-ten-lyart.vercel.app/api/top-langs/?username=Saphall&langs_count=10&hide=Jupyter%20Notebook,ShaderLab,Mathematica,HLSL,Swift,Dockerfile,Objective-C&layout=compact&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117"/>
 </a></p>
 
 <br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-Saphall-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0d1117)](https://github.com/Saphall)
+[![HackerOne](https://img.shields.io/badge/BUG%20BOUNTY-d43mOne-0d1117?style=for-the-badge&logo=hackerone&logoColor=00f0ff&labelColor=0d1117)](https://github.com/d43mOne)
+
+<br>
+
+</div>
   
-## Holopin Board :
+## ⚡ Holopin Board :
   
 [![@saphall's Holopin board](https://holopin.me/saphall)](https://holopin.io/@saphall)
