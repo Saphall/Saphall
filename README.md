@@ -5,7 +5,7 @@
 <p> <a href='#'>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40%" alt="coding" />
 </a>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+Data+Science+%2B+Machine+Learning;%3E+Streaming+ETL+%26+Data+Engineering;%3E+Web+%26+Mobile+Development;%3E+Bug+Bounty+%2F+Security+Research;" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+Data+Science+%2B+Machine+Learning;%3E+Data+Engineering;%3E+Web+%26+Mobile+Development;%3E+Bug+Bounty+%2F+Security+Research;" alt="typing" />
   </p>
 
   <div align="center">
